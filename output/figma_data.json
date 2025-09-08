@@ -1,0 +1,736 @@
+{
+  "file_name": "Practise",
+  "pages": [
+    {
+      "name": "Page 1",
+      "id": "0:1",
+      "frames": [
+        {
+          "name": "Sign Up",
+          "id": "2:8",
+          "type": "FRAME",
+          "elements": [
+            {
+              "name": "Rectangle 4165",
+              "id": "2:9",
+              "type": "RECTANGLE",
+              "visible": true,
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                  }
+                }
+              ],
+              "strokes": []
+            },
+            {
+              "name": "Group 18094",
+              "id": "2:10",
+              "type": "GROUP",
+              "visible": true,
+              "children": [
+                {
+                  "name": "Group 17867",
+                  "id": "2:11",
+                  "type": "GROUP",
+                  "visible": true,
+                  "children": [
+                    {
+                      "name": "Group 17864",
+                      "id": "2:12",
+                      "type": "GROUP",
+                      "visible": true,
+                      "children": [
+                        {
+                          "name": "Rectangle 4145",
+                          "id": "2:13",
+                          "type": "RECTANGLE",
+                          "visible": true,
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 1.0,
+                                "g": 1.0,
+                                "b": 1.0,
+                                "a": 1.0
+                              }
+                            }
+                          ],
+                          "strokes": [
+                            {
+                              "blendMode": "NORMAL",
+                              "visible": false,
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.0941176488995552,
+                                "g": 0.46666666865348816,
+                                "b": 0.9490196108818054,
+                                "a": 1.0
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "name": "FACEBOOK",
+                          "id": "2:14",
+                          "type": "TEXT",
+                          "visible": true,
+                          "text": "FACEBOOK",
+                          "font_size": 13.0
+                        },
+                        {
+                          "name": "Group 17863",
+                          "id": "2:15",
+                          "type": "GROUP",
+                          "visible": true,
+                          "children": [
+                            {
+                              "name": "Rectangle 4146",
+                              "id": "2:16",
+                              "type": "RECTANGLE",
+                              "visible": true,
+                              "fills": [
+                                {
+                                  "blendMode": "NORMAL",
+                                  "type": "SOLID",
+                                  "color": {
+                                    "r": 0.0941176488995552,
+                                    "g": 0.46666666865348816,
+                                    "b": 0.9490196108818054,
+                                    "a": 1.0
+                                  }
+                                }
+                              ],
+                              "strokes": []
+                            },
+                            {
+                              "name": "Path",
+                              "id": "2:17",
+                              "type": "VECTOR",
+                              "visible": true
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Group 17865",
+                      "id": "2:18",
+                      "type": "GROUP",
+                      "visible": true,
+                      "children": [
+                        {
+                          "name": "Rectangle 4145",
+                          "id": "2:19",
+                          "type": "RECTANGLE",
+                          "visible": true,
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 1.0,
+                                "g": 1.0,
+                                "b": 1.0,
+                                "a": 1.0
+                              }
+                            }
+                          ],
+                          "strokes": [
+                            {
+                              "blendMode": "NORMAL",
+                              "visible": false,
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.20392157137393951,
+                                "g": 0.658823549747467,
+                                "b": 0.32549020648002625,
+                                "a": 1.0
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "name": "GOOGLE",
+                          "id": "2:20",
+                          "type": "TEXT",
+                          "visible": true,
+                          "text": "GOOGLE",
+                          "font_size": 13.0
+                        },
+                        {
+                          "name": "super g",
+                          "id": "2:21",
+                          "type": "GROUP",
+                          "visible": true,
+                          "children": [
+                            {
+                              "name": "Shape",
+                              "id": "2:22",
+                              "type": "VECTOR",
+                              "visible": true
+                            },
+                            {
+                              "name": "Shape",
+                              "id": "2:23",
+                              "type": "VECTOR",
+                              "visible": true
+                            },
+                            {
+                              "name": "Shape",
+                              "id": "2:24",
+                              "type": "VECTOR",
+                              "visible": true
+                            },
+                            {
+                              "name": "Shape",
+                              "id": "2:25",
+                              "type": "VECTOR",
+                              "visible": true
+                            },
+                            {
+                              "name": "Shape",
+                              "id": "2:26",
+                              "type": "VECTOR",
+                              "visible": true
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Sign up with",
+                  "id": "2:27",
+                  "type": "TEXT",
+                  "visible": true,
+                  "text": "Sign up with",
+                  "font_size": 14.0
+                },
+                {
+                  "name": "Group 17868",
+                  "id": "2:28",
+                  "type": "GROUP",
+                  "visible": true,
+                  "children": [
+                    {
+                      "name": "Line 71",
+                      "id": "2:29",
+                      "type": "LINE",
+                      "visible": true
+                    },
+                    {
+                      "name": "Line 72",
+                      "id": "2:30",
+                      "type": "LINE",
+                      "visible": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sign Up",
+              "id": "2:31",
+              "type": "TEXT",
+              "visible": true,
+              "text": "Sign Up\n",
+              "font_size": 36.41270065307617
+            },
+            {
+              "name": "Name",
+              "id": "2:32",
+              "type": "GROUP",
+              "visible": true,
+              "children": [
+                {
+                  "name": "Group 17852",
+                  "id": "2:33",
+                  "type": "GROUP",
+                  "visible": true,
+                  "children": [
+                    {
+                      "name": "Full name",
+                      "id": "2:34",
+                      "type": "TEXT",
+                      "visible": true,
+                      "text": "Full name",
+                      "font_size": 16.0
+                    },
+                    {
+                      "name": "Rectangle 4142",
+                      "id": "2:35",
+                      "type": "RECTANGLE",
+                      "visible": true,
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 1.0,
+                            "g": 1.0,
+                            "b": 1.0,
+                            "a": 1.0
+                          }
+                        }
+                      ],
+                      "strokes": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 0.9960784316062927,
+                            "g": 0.4470588266849518,
+                            "b": 0.2980392277240753,
+                            "a": 1.0
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Arlene Mccoy",
+                      "id": "2:36",
+                      "type": "TEXT",
+                      "visible": true,
+                      "text": "Arlene Mccoy",
+                      "font_size": 17.0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "$ 1679.30",
+              "id": "2:37",
+              "type": "TEXT",
+              "visible": true,
+              "text": "$ 1679.30",
+              "font_size": 24.0
+            },
+            {
+              "name": "Group 17532",
+              "id": "2:38",
+              "type": "GROUP",
+              "visible": true,
+              "children": [
+                {
+                  "name": "Group 17531",
+                  "id": "2:39",
+                  "type": "GROUP",
+                  "visible": true,
+                  "children": [
+                    {
+                      "name": "Group 17580",
+                      "id": "2:40",
+                      "type": "GROUP",
+                      "visible": true,
+                      "children": [
+                        {
+                          "name": "Rectangle 139",
+                          "id": "2:41",
+                          "type": "RECTANGLE",
+                          "visible": true,
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.9960784316062927,
+                                "g": 0.4470588266849518,
+                                "b": 0.2980392277240753,
+                                "a": 1.0
+                              }
+                            }
+                          ],
+                          "strokes": []
+                        },
+                        {
+                          "name": "SIGN UP",
+                          "id": "2:42",
+                          "type": "TEXT",
+                          "visible": true,
+                          "text": "SIGN UP",
+                          "font_size": 15.0
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Already have an account? Login",
+              "id": "2:43",
+              "type": "TEXT",
+              "visible": true,
+              "text": "Already have an account? Login",
+              "font_size": 14.0
+            },
+            {
+              "name": "Password",
+              "id": "2:44",
+              "type": "GROUP",
+              "visible": true,
+              "children": [
+                {
+                  "name": "Password",
+                  "id": "2:45",
+                  "type": "TEXT",
+                  "visible": true,
+                  "text": "Password",
+                  "font_size": 16.0
+                },
+                {
+                  "name": "Rectangle 4142",
+                  "id": "2:46",
+                  "type": "RECTANGLE",
+                  "visible": true,
+                  "fills": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                      }
+                    }
+                  ],
+                  "strokes": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.9333333373069763,
+                        "g": 0.9333333373069763,
+                        "b": 0.9333333373069763,
+                        "a": 1.0
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Group",
+                  "id": "2:47",
+                  "type": "GROUP",
+                  "visible": true,
+                  "children": [
+                    {
+                      "name": "Vector",
+                      "id": "2:48",
+                      "type": "VECTOR",
+                      "visible": true
+                    },
+                    {
+                      "name": "Vector",
+                      "id": "2:49",
+                      "type": "VECTOR",
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "name": "Group 17870",
+                  "id": "2:50",
+                  "type": "GROUP",
+                  "visible": true,
+                  "children": [
+                    {
+                      "name": "Ellipse 108",
+                      "id": "2:51",
+                      "type": "ELLIPSE",
+                      "visible": true,
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 0.06666667014360428,
+                            "g": 0.09019608050584793,
+                            "b": 0.09803921729326248,
+                            "a": 1.0
+                          }
+                        }
+                      ],
+                      "strokes": []
+                    },
+                    {
+                      "name": "Ellipse 109",
+                      "id": "2:52",
+                      "type": "ELLIPSE",
+                      "visible": true,
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 0.06666667014360428,
+                            "g": 0.09019608050584793,
+                            "b": 0.09803921729326248,
+                            "a": 1.0
+                          }
+                        }
+                      ],
+                      "strokes": []
+                    },
+                    {
+                      "name": "Ellipse 110",
+                      "id": "2:53",
+                      "type": "ELLIPSE",
+                      "visible": true,
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 0.06666667014360428,
+                            "g": 0.09019608050584793,
+                            "b": 0.09803921729326248,
+                            "a": 1.0
+                          }
+                        }
+                      ],
+                      "strokes": []
+                    },
+                    {
+                      "name": "Ellipse 111",
+                      "id": "2:54",
+                      "type": "ELLIPSE",
+                      "visible": true,
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 0.06666667014360428,
+                            "g": 0.09019608050584793,
+                            "b": 0.09803921729326248,
+                            "a": 1.0
+                          }
+                        }
+                      ],
+                      "strokes": []
+                    },
+                    {
+                      "name": "Ellipse 112",
+                      "id": "2:55",
+                      "type": "ELLIPSE",
+                      "visible": true,
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 0.06666667014360428,
+                            "g": 0.09019608050584793,
+                            "b": 0.09803921729326248,
+                            "a": 1.0
+                          }
+                        }
+                      ],
+                      "strokes": []
+                    },
+                    {
+                      "name": "Ellipse 113",
+                      "id": "2:56",
+                      "type": "ELLIPSE",
+                      "visible": true,
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 0.06666667014360428,
+                            "g": 0.09019608050584793,
+                            "b": 0.09803921729326248,
+                            "a": 1.0
+                          }
+                        }
+                      ],
+                      "strokes": []
+                    },
+                    {
+                      "name": "Ellipse 114",
+                      "id": "2:57",
+                      "type": "ELLIPSE",
+                      "visible": true,
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 0.06666667014360428,
+                            "g": 0.09019608050584793,
+                            "b": 0.09803921729326248,
+                            "a": 1.0
+                          }
+                        }
+                      ],
+                      "strokes": []
+                    },
+                    {
+                      "name": "Ellipse 115",
+                      "id": "2:58",
+                      "type": "ELLIPSE",
+                      "visible": true,
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 0.06666667014360428,
+                            "g": 0.09019608050584793,
+                            "b": 0.09803921729326248,
+                            "a": 1.0
+                          }
+                        }
+                      ],
+                      "strokes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ellipse 126",
+              "id": "2:59",
+              "type": "ELLIPSE",
+              "visible": true,
+              "fills": [],
+              "strokes": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 0.9960784316062927,
+                    "g": 0.4470588266849518,
+                    "b": 0.2980392277240753,
+                    "a": 1.0
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Ellipse 127",
+              "id": "2:60",
+              "type": "ELLIPSE",
+              "visible": true,
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 1.0,
+                    "g": 0.9246255159378052,
+                    "b": 0.9041666984558105,
+                    "a": 1.0
+                  }
+                }
+              ],
+              "strokes": []
+            },
+            {
+              "name": "Ellipse 128",
+              "id": "2:61",
+              "type": "ELLIPSE",
+              "visible": true,
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 0.9960784316062927,
+                    "g": 0.4470588266849518,
+                    "b": 0.2980392277240753,
+                    "a": 1.0
+                  }
+                }
+              ],
+              "strokes": []
+            },
+            {
+              "name": "Email",
+              "id": "2:62",
+              "type": "GROUP",
+              "visible": true,
+              "children": [
+                {
+                  "name": "E-mail",
+                  "id": "2:63",
+                  "type": "TEXT",
+                  "visible": true,
+                  "text": "E-mail",
+                  "font_size": 16.0
+                },
+                {
+                  "name": "Group 18100",
+                  "id": "2:64",
+                  "type": "GROUP",
+                  "visible": true,
+                  "children": [
+                    {
+                      "name": "Rectangle 4142",
+                      "id": "2:65",
+                      "type": "RECTANGLE",
+                      "visible": true,
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 1.0,
+                            "g": 1.0,
+                            "b": 1.0,
+                            "a": 1.0
+                          }
+                        }
+                      ],
+                      "strokes": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 0.9333333373069763,
+                            "g": 0.9333333373069763,
+                            "b": 0.9333333373069763,
+                            "a": 1.0
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "name": "prelookstudio@gmail.com",
+                      "id": "2:66",
+                      "type": "TEXT",
+                      "visible": true,
+                      "text": "prelookstudio@gmail.com",
+                      "font_size": 18.0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Page 2",
+      "id": "1:3",
+      "frames": []
+    }
+  ],
+  "components": [],
+  "text_elements": [],
+  "interactive_elements": []
+}
